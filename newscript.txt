@@ -1,3 +1,6 @@
 This is a new script
 I am typing some new shit.
 We want to test git diff and then see some changes.  no bad language
+We are making new changes to the script -- THis is an exercise
+
+This is apart of the exercise, text script.
